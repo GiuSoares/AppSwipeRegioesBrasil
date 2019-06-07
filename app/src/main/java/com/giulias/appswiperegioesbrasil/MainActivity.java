@@ -1,4 +1,4 @@
-package com.example.t2_swipe;
+package com.giulias.appswiperegioesbrasil;
 
 import android.annotation.SuppressLint;
 import android.support.v7.app.AppCompatActivity;
@@ -98,3 +98,4 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+

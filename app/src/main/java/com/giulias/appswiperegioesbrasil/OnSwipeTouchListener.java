@@ -1,4 +1,4 @@
-package com.example.t2_swipe;
+package com.giulias.appswiperegioesbrasil;
 
 import android.content.Context;
 import android.view.GestureDetector;
